@@ -1,7 +1,7 @@
 # spoty
 spotify cli minimal as can be
 
-Made this tool to control another mac that run spotify over ssh.
+Made this tool to control another mac over ssh that run spotify
 calling Apple script to control Spotify.
 
 edit the playlist inside the code
