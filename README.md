@@ -1,6 +1,8 @@
 # spoty
 spotify cli minimal as can be
-using Apple script to control Spotify client
+
+Made this tool to control another mac that run spotify over ssh.
+calling Apple script to control Spotify.
 
 Usage: spoty [-p] [-n] [-v <volume_level>] [-h]
 
