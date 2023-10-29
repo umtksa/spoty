@@ -16,7 +16,7 @@ edit the playlist inside the code
 
 Usage: spoty [-p] [-n] [-v <volume_level>] [-h]
 
-run spoty without arguments to get playlist suggestions to play
+run spoty without arguments to get playlist to play
 
 spoty -p         Play/Pause Spotify"
 
