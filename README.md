@@ -1,5 +1,7 @@
 # spoty
-spotify cli minimal as can be
+controlling official spotify client in the background so you dont need an api key
+spotify cli minimal as can be 
+
 
 Made this tool to control another mac over ssh that run spotify
 calling Apple script to control Spotify.
