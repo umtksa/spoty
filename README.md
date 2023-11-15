@@ -6,7 +6,7 @@ controlling official spotify client in the background so you dont need an api ke
 Made this tool to control another mac over ssh that run spotify
 calling Apple script to control Spotify.
 
-edit the playlist inside the code
+edit the playlist inside the code or use spoty_fzf_playlist that uses external playlist.txt
 
 ```shell
 "OM=spotify:artist:4hCgC4FnYZLBgQPUMLOoiI"
