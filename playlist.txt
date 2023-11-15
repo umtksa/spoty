@@ -1,0 +1,5 @@
+Khuda=spotify:artist:2eGCa6T5v7c4vh2I3GgKux
+mono mix=spotify:artist:53LVoipNTQ4lvUSJ61XKU3
+om=spotify:artist:4hCgC4FnYZLBgQPUMLOoiI
+Indie=spotify:playlist:37i9dQZF1E39Qo8wYhKlJZ
+folk=spotify:playlist:37i9dQZF1EQp62d3Dl7ECY
